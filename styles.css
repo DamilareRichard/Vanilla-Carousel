@@ -67,10 +67,10 @@ body{
 }
 
 h1{
-	left: 80px;
+	left: 60px;
 }
 .carousel-container{
-	width: 100%;
+	width: 95%;
 	border: none;
 	/*z-index: 2;*/
 
